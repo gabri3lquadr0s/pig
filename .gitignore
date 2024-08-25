@@ -1,0 +1,4 @@
+.venv/
+testJson/
+.idea/
+app/alembic/versions/
